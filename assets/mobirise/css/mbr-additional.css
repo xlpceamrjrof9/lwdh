@@ -2657,6 +2657,12 @@ section.lazy-placeholder:after {
 .cid-s6wEalYChH .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-s6wEalYChH .card-title {
+  text-align: center;
+}
+.cid-s6wEalYChH .mbr-text {
+  text-align: center;
+}
 .cid-s6wExjIAih {
   padding-top: 120px;
   padding-bottom: 120px;
