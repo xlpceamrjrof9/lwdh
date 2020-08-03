@@ -6214,7 +6214,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6AHXG4xG3 {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s6AHXG4xG3 .counter-container {
@@ -6245,6 +6245,90 @@ section.lazy-placeholder:after {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-s6AJglmUu4 {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s6AJ4cBCmq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-s6AJ4cBCmq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s6AJ4cBCmq .container-table {
+  margin: 0 auto;
+}
+.cid-s6AJ4cBCmq .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-s6AJ4cBCmq .dataTables_wrapper {
+  display: block;
+}
+.cid-s6AJ4cBCmq .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-s6AJ4cBCmq .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-s6AJ4cBCmq table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-s6AJ4cBCmq table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-s6AJ4cBCmq table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-s6AJ4cBCmq table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-s6AJ4cBCmq table.table {
+  background: #ffffff;
+}
+.cid-s6AJ4cBCmq .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-s6AJ4cBCmq .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-s6AJ4cBCmq .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-s6AJ4cBCmq .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-s6AJ4cBCmq .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-s6AJ4cBCmq .dataTables_filter {
+    text-align: center;
+  }
+  .cid-s6AJ4cBCmq .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
 }
 .cid-s6AHXIb6lT {
   padding-top: 90px;
