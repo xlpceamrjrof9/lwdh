@@ -4954,7 +4954,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6A0KMat7T {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s6A0KMat7T .counter-container {
@@ -4985,6 +4985,11 @@ section.lazy-placeholder:after {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-s6BDj8LpQe {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-s6A0KMOjgJ {
   padding-top: 60px;
@@ -5036,6 +5041,9 @@ section.lazy-placeholder:after {
 }
 .cid-s6A0KMOjgJ .user_desk {
   color: #767676;
+}
+.cid-s6A0KMOjgJ H2 {
+  color: #4f4943;
 }
 .cid-s6A0KQvpmh {
   padding-top: 120px;
