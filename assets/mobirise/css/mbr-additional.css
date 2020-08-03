@@ -1442,7 +1442,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6CJO1o6kr {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s6CJO1o6kr .mbr-section-subtitle,
@@ -1526,6 +1526,11 @@ section.lazy-placeholder:after {
 }
 .cid-s6CJO1o6kr .mbr-text {
   text-align: center;
+}
+.cid-s6DkmQaK48 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
 .cid-s6Cc4a8aOD {
   padding-top: 120px;
