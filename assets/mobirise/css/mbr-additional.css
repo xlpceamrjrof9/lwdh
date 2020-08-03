@@ -1440,6 +1440,27 @@ section.lazy-placeholder:after {
 .cid-s6uYpTGyiw .mbr-section-title {
   color: #232323;
 }
+.cid-s6C2OvevEj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s6C2OvevEj .title {
+  margin-bottom: 2rem;
+}
+.cid-s6C2OvevEj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s6C2OvevEj a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s6C2OvevEj a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s6C2OvevEj textarea.form-control {
+  min-height: 188px;
+}
 .cid-s6wFe4QmtB {
   padding-top: 120px;
   padding-bottom: 120px;
