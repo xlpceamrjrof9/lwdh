@@ -1475,6 +1475,9 @@ section.lazy-placeholder:after {
     display: none;
   }
 }
+.cid-s6C4U3pWG9 H2 {
+  text-align: left;
+}
 .cid-s6C50uzLsX .google-map {
   height: 25rem;
   position: relative;
@@ -1521,91 +1524,6 @@ section.lazy-placeholder:after {
 }
 .cid-s6C2OvevEj textarea.form-control {
   min-height: 188px;
-}
-.cid-s6wFe4QmtB {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #c07123;
-}
-@media (max-width: 767px) {
-  .cid-s6wFe4QmtB .content {
-    text-align: center;
-  }
-  .cid-s6wFe4QmtB .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-.cid-s6wFe4QmtB .map {
-  height: 18.75rem;
-}
-@media (max-width: 767px) {
-  .cid-s6wFe4QmtB .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-s6wFe4QmtB .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-s6wFe4QmtB .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-s6wFe4QmtB .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-s6wFe4QmtB .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-s6wFe4QmtB .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-s6wFe4QmtB .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-s6wFe4QmtB .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-s6wFe4QmtB .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-s6wFe4QmtB .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-s6wFe4QmtB .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-s6wFe4QmtB .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-s6wFe4QmtB .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
 .cid-s6wFurUXIT {
   padding-top: 15px;
