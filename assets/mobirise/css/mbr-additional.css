@@ -3140,7 +3140,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6zNG4KQSH {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s6zNG4KQSH .counter-container {
@@ -3171,6 +3171,11 @@ section.lazy-placeholder:after {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-s6BcajeWwh {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-s6zOfY2i70 {
   padding-top: 60px;
